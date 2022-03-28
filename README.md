@@ -1,8 +1,8 @@
 # ADAPunkz proposals storage + review repo
 
-This is a repository to store markdown-formatted proposal submissions for the ADAPunkz DAO. W
+This is a repository to store markdown-formatted proposal submissions for the ADAPunkz DAO. 
 
-hen a proposal is submitted via the ADAPunkz website, a bot will create a PR on this repo for review by the team. 
+When a proposal is submitted via the ADAPunkz website, a bot will create a PR on this repo for review by the team. 
 
 Once the team agrees that the proposal is of a high enough quality to go a voting stage, the PR should be merged into master where the site API will automatically fetch options for the current voting round.
 
